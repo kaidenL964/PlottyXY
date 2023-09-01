@@ -1,2 +1,2 @@
 # PlottyXY
-Simple adn cheap XY plotter
+Simple and cheap XY plotter
